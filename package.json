@@ -27,6 +27,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "geojson-vt": "^3.2.1",
     "react-app-rewired": "^2.1.0"
   }
 }
